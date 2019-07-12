@@ -1,4 +1,4 @@
-// 协议编码
+//  协议编码
 
 const payload = {
     service: 'com.alipay.nodejs.helloService:1.0',
